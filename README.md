@@ -29,7 +29,7 @@ A decentralized, exogenous, crypto-collateralized stablecoin system built on Eth
 
 ### Prerequisites
 
-- [What are StableCoin?](https://www.youtube.com/watch?v=pGzfexGmuVw&t=172s&pp=ygUVc3RhYmxlY29pbnMgZXhwbGFpbmVk)
+- [What are Stablecoins?](https://www.youtube.com/watch?v=pGzfexGmuVw&t=172s&pp=ygUVc3RhYmxlY29pbnMgZXhwbGFpbmVk)
 - [Foundry](https://book.getfoundry.sh/getting-started/installation)
 
 ### Installation
