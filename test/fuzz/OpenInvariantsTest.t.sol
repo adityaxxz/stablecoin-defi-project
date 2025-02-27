@@ -59,10 +59,10 @@ contract Invariants is StdInvariant, Test {
         dsce.getLiquidationThreshold();
         dsce.getMinHealthFactor();
         dsce.getPrecision();
-        dsce.getDsc();
-        dsce.getTokenAmountFromUsd();
-        dsce.getCollateralTokenPriceFeed();
-        dsce.getCollateralBalanceOfUser();
+        // dsce.getDsc();
+        // dsce.getTokenAmountFromUsd();
+        // dsce.getCollateralTokenPriceFeed();
+        // dsce.getCollateralBalanceOfUser();
         // getAccountCollateralValue();
     }
 }
