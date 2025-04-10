@@ -48,7 +48,7 @@ forge build
 
 ## Core Functions
 
-### DSCEngine
+### DSCEngine.sol
 
 1. **Collateral Management**
    - `depositCollateral(address token, uint256 amount)`: Deposit collateral
